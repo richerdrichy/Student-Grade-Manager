@@ -100,7 +100,7 @@ Student records are stored in a Python list of dictionaries during program execu
 
 ## Author
 
-**Richerd S.**
+**Richerd S**
 
 ## License
 
